@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588322571401",
+    "project_id": "addmob-a6e62",
+    "storage_bucket": "addmob-a6e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588322571401:android:12003e984c6a2400cb3258",
+        "android_client_info": {
+          "package_name": "com.example.addmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588322571401-b47083jluom2083c49coqrh7podlccsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-8zrQTIO_F82h7fRAIHbhyp8XzMKxeek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588322571401-b47083jluom2083c49coqrh7podlccsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
